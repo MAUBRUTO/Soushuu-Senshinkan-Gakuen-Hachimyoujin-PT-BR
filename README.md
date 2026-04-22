@@ -9,6 +9,7 @@ Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro
   <summary>Clique aqui para abrir/fechar conteúdo da tradução</summary>
 
   Os conteúdos da tradução são os seguintes:
+  - Tradução da opening (<ruby>**紅蓮獄華**<rt>**Guren Gokuka**</rt></ruby>) com legendas e tradução dos créditos finais com equipe de tradução.
 </details>
 
 # Andamento da Tradução
