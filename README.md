@@ -7,6 +7,8 @@ Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro
 
 <details>
   <summary>Clique aqui para abrir/fechar conteúdo da tradução</summary>
+
+  Os conteúdos da tradução são os seguintes:
 </details>
 
 # Andamento da Tradução
