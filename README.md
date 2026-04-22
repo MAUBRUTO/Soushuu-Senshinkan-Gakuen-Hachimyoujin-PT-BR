@@ -1,5 +1,5 @@
 # Soushuu-Senshinkan-Gakuen-Hachimyoujin-PT-BR
-Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro
+Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro. A versão referida do jogo é a de PC.
 
 <p align="center">
   <img src="https://imgur.com/SrDJWFX.png" width="600">
