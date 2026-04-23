@@ -22,3 +22,6 @@ Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro. A 
 # Créditos aos colaboradores
 
 # Notas do grupo 
+São mais de 120K de linhas de script.
+
+Apesar disso, já tínhamos certas cenas específicas traduzidas (Amakasu vs Yoshiya; Nakiri vs Harumitsu)
