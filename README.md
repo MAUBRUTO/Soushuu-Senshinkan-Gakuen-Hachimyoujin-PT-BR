@@ -1,4 +1,4 @@
-# Soushuu-Senshinkan-Gakuen-Hachimyoujin-PT-BR
+# Akebono-TL’s-Hachimyoujin-PT-BR
 Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro. A versão referida do jogo é a de PC.
 
 <p align="center">
