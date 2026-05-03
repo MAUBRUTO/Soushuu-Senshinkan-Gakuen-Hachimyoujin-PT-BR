@@ -26,7 +26,7 @@ São mais de 120K de linhas de script.
 
 Apesar disso, já tínhamos certas cenas específicas traduzidas (Amakasu vs Yoshiya; Nakiri vs Harumitsu). Para você que está acostumado com as rotas de Dies Irae e Kajiri Kamui Kagura, o jogo funciona de uma forma bem diferente.
 
-Ele apresenta não só adições de finais ruins de acordo com suas escolhas como a rota principal só é desbloqueada caso você faça certas coisas específicas primeiro. Para entender como jogar Senshinkan sem ficar perdido, acesse o Guia aqui linkado que está explicando tudo da melhor forma possível.
+Ele apresenta não só adições de finais ruins de acordo com suas escolhas como a rota principal só é desbloqueada caso você faça certas coisas específicas primeiro. Para entender como jogar Senshinkan sem ficar perdido, acesse o [Guia aqui linkado](https://github.com/MAUBRUTO/Soushuu-Senshinkan-Gakuen-Hachimyoujin-PT-BR/releases/tag/Senshinkan-Guide) que está explicando tudo da melhor forma possível.
 
 >**TODOS OS CRÉDITOS DO JOGO E CONTEÚDO DA VISUAL NOVEL VÃO PARA SUAS RESPECTIVAS DISTRIBUIDORAS:**
  1. light
