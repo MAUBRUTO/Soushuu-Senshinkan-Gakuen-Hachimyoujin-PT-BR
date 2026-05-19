@@ -195,7 +195,7 @@ Dado todos esses avisos, vamos pro guia.
 </Details>
 
 ----
-## 📖 Legenda
+## Legenda
 
 | Símbolo | Significado |
 |---------|-----------|
