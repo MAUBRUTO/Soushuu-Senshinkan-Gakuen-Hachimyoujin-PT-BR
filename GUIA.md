@@ -1,9 +1,13 @@
 Diferentemente de Dies Irae que possui 5 finais fechados e Kajiri que possui 3 finalizações que levam à um final que junta todas elas, Senshinkan possui um sistema bem mais complexo do que isso.
 
-1. O jogo apresenta adições de finais ruins; cenas que vão impactar na sua leitura dependendo da escolha que você fizer. Não se preocupe, o jogo não reseta seu save, ele retorna logo em seguida para fazer com que você continue jogando a partir da escolha correta.
-2. A rota final (`Rota de Sera`) só é desbloqueada caso você complete todas as três rotas anteriores (`Akira` -> `Ayumi` -> `Gadou`) e chegue em **qualquer** final ruim.
-3. A Grande Rota é afetada diretamente a partir das escolhas das rotas anteriores, por isso, é recomendado que essa seja a última rota na qual você irá se inserir em.
-4. Nota: As opções marcadas com o símbolo `※` só aparecerão após a rota da Mizuki ser desbloqueada.
+## ⚠️ Avisos Importantes
+- ✅ **Finais Ruins Adicionam Conteúdo**: O jogo não reseta seu save; ele te leva pra tela inicial (recomendado salvar logo que aparecer alguma opção de final ruim).
+
+- 🎯 **Rota de Sera**: Desbloqueada após completar todas as três rotas anteriores (Akira → Ayumi → Gadou) e qualquer final ruim.
+
+- 🔀 **Grande Rota**: Afetada pelas escolhas das rotas anteriores (recomendado deixar por último).
+
+- 📌 **Símbolo** `※`: Opções marcadas só aparecem após desbloquear a rota da Mizuki.
 
 Dado todos esses avisos, vamos pro guia.
 
