@@ -6,7 +6,7 @@
 - [Sera Mizuki](#sera-mizuki)
 - [Grande Rota](#grande-rota)
 - [Legenda](#legenda)
-
+----
 Diferentemente de Dies Irae que possui 5 finais fechados e Kajiri que possui 3 finalizações que levam à um final que junta todas elas, Senshinkan possui um sistema bem mais complexo do que isso.
 
 ## ⚠️ Avisos Importantes
