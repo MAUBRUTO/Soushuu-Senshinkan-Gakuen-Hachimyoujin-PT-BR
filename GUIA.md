@@ -194,4 +194,11 @@ Dado todos esses avisos, vamos pro guia.
 </Details>
 
 ----
-As setas que apontam pro texto `(Ruim)` elas indicam que caso você escolha a opção apontada ao invés da primeira, irá resultar em um final ruim. Os finais ruins te levam diretamente pro começo do jogo, então é recomendado que caso vocês queiram desbloquear a rota da Sera já na primeira opção ruim, por favor salvem o jogo nas opções, assim vocês não ficam com dor de cabeça pra voltar tudo de novo.
+## 📖 Legenda
+
+| Símbolo | Significado |
+|---------|-----------|
+| `※` | Opção desbloqueada após rota da Mizuki |
+| `⇒` | Escolha que leva a final ruim |
+| `**(Ruim)**` | Final ruim |
+| `[SAVE XX]` | Ponto de save recomendado |
