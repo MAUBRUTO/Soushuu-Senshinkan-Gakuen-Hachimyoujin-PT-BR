@@ -201,7 +201,7 @@ Dado todos esses avisos, vamos pro guia.
 |---------|-----------|
 | `※` | Opção desbloqueada após rota da Mizuki |
 | `⇒` | Escolha que leva a final ruim |
-| `**(Ruim)**` | Final ruim |
+| **`(Ruim)`** | Final ruim |
 | `[SAVE XX]` | Ponto de save recomendado |
 
 **Observação**: As setas (`⇒`) indicam que escolher aquela opção apontada resultará em um final ruim, que te leva para a tela inicial. Escolha a opção anterior para o caminho correto.
