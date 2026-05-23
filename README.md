@@ -27,9 +27,9 @@ Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Portugu�
 
 ## ℹ️ Informações Importantes
 
-- **Script**: +120.000 linhas traduzidas
-- **Sistema de Finais**: Mais complexo que Dies Irae e Kajiri Kamui Kagura
-- **Rotas**: Akira, Ayumi, Rinko, Sera (desbloqueável), Grande Rota (afetada pelas escolhas anteriores)
+- **Script**: +120.000 linhas para serem traduzidas
+- **Sistema de Finais**: Conta com 9 finais ao todo
+- **Rotas**: Akira (Padrão), Ayumi (Padrão), Rinko (Padrão), Sera (Desbloqueada após as três anteriores), Grande Rota (afetada pelas escolhas anteriores)
 
 👉 **Leia o [GUIA DE ROTAS](./GUIA.md) antes de começar!**
 
