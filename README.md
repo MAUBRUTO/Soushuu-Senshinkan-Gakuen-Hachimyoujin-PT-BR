@@ -8,7 +8,7 @@ Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Portugu�
 
 ---
 
-## 📋 O que foi traduzido
+## O que foi traduzido
 
 - Opening (<ruby>紅蓮獄華<rt>Guren Gokuka</rt></ruby>) com legendas
 - Créditos finais com equipe de tradução
@@ -25,23 +25,23 @@ Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Portugu�
 
 ---
 
-## ℹ️ Informações Importantes
+## Informações Importantes
 
 - **Script**: +120.000 linhas para serem traduzidas
 - **Sistema de Finais**: Conta com 9 finais ao todo
 - **Rotas**: Akira (Padrão), Ayumi (Padrão), Rinko (Padrão), Sera (Desbloqueada após as três anteriores), Grande Rota (afetada pelas escolhas anteriores)
 
-👉 **Leia o [GUIA DE ROTAS](./GUIA.md) antes de começar!**
+-> **Leia o [GUIA DE ROTAS](./GUIA.md) antes de começar!**
 
 ---
 
-## 🔧 Como Instalar
+## Como Instalar
 
 _Em desenvolvimento_
 
 ---
 
-## 👥 Créditos
+## Créditos
 
 **Distribuidoras originais:**
 - light
@@ -49,6 +49,6 @@ _Em desenvolvimento_
 
 ---
 
-## 📚 Documentação
+## Documentação
 
 - [GUIA.md](./GUIA.md) - Guia completo de rotas e finais
