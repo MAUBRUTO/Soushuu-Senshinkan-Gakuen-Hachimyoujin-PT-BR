@@ -14,6 +14,7 @@ Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Portugu�
 - Créditos finais com equipe de tradução
 - Títulos dos capítulos em imagem
 - Preservação de *rubys* originais e termos com pronúncia específica
+- Tradução de CGs
 
 <details>
 <summary><strong>Ver detalhes completos</strong></summary>
