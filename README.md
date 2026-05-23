@@ -1,33 +1,54 @@
-# Akebono-TL’s-Hachimyoujin-PT-BR
-Tradução de Senshinkan Hachimyoujin do japonês para Português Brasileiro. A versão referida do jogo é a de PC.
+# Senshinkan Hachimyoujin - Tradução PT-BR
+
+Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Português Brasileiro (versão PC).
 
 <p align="center">
   <img src="https://imgur.com/SrDJWFX.png" width="600">
 </p>
 
-<details>
-  <summary>Clique aqui para abrir/fechar conteúdo da tradução</summary>
+---
 
-  Os conteúdos da tradução são os seguintes:
-  - Tradução da opening (<ruby>**紅蓮獄華**<rt>**Guren Gokuka**</rt></ruby>) com legendas e tradução dos créditos finais com equipe de tradução.
-  - Tradução de imagem dos capítulos (Exemplo: `"第一話 明晰夢"` -> `"Episódio 1 — Sonho Lúcido"`)
-  - Preserva: **Rubys originais** (Que falam sobre os conceitos da obra de forma mais ampla)
-  - Preserva: Termos originais com ruby em relação a sua pronúncia (`Jingi Hakko`; <ruby>`Gekihou`<rt>**Alabarda**</rt></ruby>; <ruby>`Junpou`<rt>**Escudo**</rt></ruby>; <ruby>`Juhou`<rt>**Maldição**</rt></ruby>; <ruby>`Kaihou`<rt>**Liberação**</rt></ruby>; <ruby>`Souhou`<rt>**Criação**</rt></ruby>; etc.)
+## 📋 O que foi traduzido
+
+- Opening (<ruby>紅蓮獄華<rt>Guren Gokuka</rt></ruby>) com legendas
+- Créditos finais com equipe de tradução
+- Títulos dos capítulos em imagem
+- Preservação de *rubys* originais e termos com pronúncia específica
+
+<details>
+<summary><strong>Ver detalhes completos</strong></summary>
+
+- Mantém **rubys originais** que explicam conceitos da obra
+- Preserva termos com ruby: `Jingi Hakko`, `Gekihou` (Alabarda), `Junpou` (Escudo), `Juhou` (Maldição), etc.
+
 </details>
 
-# Andamento da Tradução
+---
 
-# Meio de Instalação
+## ℹ️ Informações Importantes
 
-# Créditos aos colaboradores
+- **Script**: +120.000 linhas traduzidas
+- **Sistema de Finais**: Mais complexo que Dies Irae e Kajiri Kamui Kagura
+- **Rotas**: Akira, Ayumi, Rinko, Sera (desbloqueável), Grande Rota (afetada pelas escolhas anteriores)
 
-# Notas do grupo 
-São mais de 120K de linhas de script.
+👉 **Leia o [GUIA DE ROTAS](./GUIA.md) antes de começar!**
 
-Apesar disso, já tínhamos certas cenas específicas traduzidas (Amakasu vs Yoshiya; Nakiri vs Harumitsu). Para você que está acostumado com as rotas de Dies Irae e Kajiri Kamui Kagura, o jogo funciona de uma forma bem diferente.
+---
 
-Ele apresenta não só adições de finais ruins de acordo com suas escolhas como a rota principal só é desbloqueada caso você faça certas coisas específicas primeiro. Para entender como jogar Senshinkan sem ficar perdido, acesse o **Guia** em `GUIA.md` acima do `README.md` que está explicando tudo da melhor forma possível.
+## 🔧 Como Instalar
 
->**TODOS OS CRÉDITOS DO JOGO E CONTEÚDO DA VISUAL NOVEL VÃO PARA SUAS RESPECTIVAS DISTRIBUIDORAS:**
- 1. light
- 2. Greenwood Co., Ltd.
+_Em desenvolvimento_
+
+---
+
+## 👥 Créditos
+
+**Distribuidoras originais:**
+- light
+- Greenwood Co., Ltd.
+
+---
+
+## 📚 Documentação
+
+- [GUIA.md](./GUIA.md) - Guia completo de rotas e finais
