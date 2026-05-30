@@ -10,7 +10,7 @@
 Diferentemente de Dies Irae que possui 5 finais fechados e Kajiri que possui 3 finalizações que levam à um final que junta todas elas, Senshinkan possui um sistema bem mais complexo do que isso.
 
 ## Avisos Importantes
-- ✅ **Finais Ruins Adicionam Conteúdo**: O jogo não reseta seu save; ele te leva pra tela inicial (recomendado salvar logo que aparecer alguma opção de final ruim).
+- ✅ **Finais Ruins**: O jogo não reseta seu save; ele te leva pra tela inicial (recomendado salvar logo que aparecer alguma opção de final ruim).
 
 - 🎯 **Rota de Sera**: Desbloqueada após completar todas as três rotas anteriores (Akira → Ayumi → Gadou) e qualquer final ruim.
 
