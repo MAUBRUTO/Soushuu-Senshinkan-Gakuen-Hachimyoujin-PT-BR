@@ -28,7 +28,7 @@ Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Portugu�
 
 ## Informações Importantes
 
-- **Script**: +120.000 linhas para serem traduzidas
+- **Script**: +102.000 linhas para serem traduzidas
 - **Sistema de Finais**: Conta com 9 finais ao todo
 - **Rotas**: Akira (Padrão), Ayumi (Padrão), Rinko (Padrão), Sera (Desbloqueada após as três anteriores), Grande Rota (afetada pelas escolhas anteriores)
 
