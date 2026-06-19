@@ -37,7 +37,7 @@ Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Portugu�
 ---
 
 ## Progresso
-O jogo tem ao todo 102153 linhas de script, até o momento (contando com o prólogo) só foram traduzidas as escolhas de todas as rotas junto dos nomes dos personagens e uma pequena parte do episódio 1 + a luta contra Amakasu e uma cena H completa. Assim sendo, são 5.246 linhas. 
+O jogo tem ao todo **102153** linhas de script, até o momento (contando com o prólogo) só foram traduzidas as escolhas de todas as rotas junto dos nomes dos personagens e uma pequena parte do episódio 1 + a luta contra Amakasu e uma cena H completa. Assim sendo, são **5.246** linhas. 
 
 Resumindo: **5,14%** de trabalho feito.
 
