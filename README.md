@@ -2,9 +2,7 @@
 
 Tradução da visual novel **Senshinkan Hachimyoujin** do japonês para Português Brasileiro (versão PC).
 
-<p align="center"> 
-   <img src="https://imgur.com/ujWjbla.png" width="600">
- </p>
+<img src="https://i.imgur.com/ujWjbla.png" width="600">
 
 ---
 
